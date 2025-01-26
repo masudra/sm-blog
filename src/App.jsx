@@ -38,6 +38,8 @@ function App() {
         Click on the Vite and React logos to learn more
       </p>
       <p className="read-the-docs">hi i am munshi</p>
+      <p className="read-the-docs">hi i am Masud</p>
+      <p className="read-the-docs">hi i am Milon</p>
     </>
   );
 }
